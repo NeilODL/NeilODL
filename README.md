@@ -21,11 +21,11 @@
 
 ## 🧠 Featured Projects
 
-🔹 [Independent Financial Agent](https://github.com/NeilODL/Independent-Financial-Agent)  
+🔹 [Independent Financial Agent](https://github.com/NeilODL/Financial-Agent-Independent)  
 LLM-based NLP assistant that parses financial data and responds to user queries.  
 *OpenAI API, LangChain, Python, Pandas*
 
-🔹 [Startup Analytics Agent](https://github.com/NeilODL/AI-Developer-Intern)  
+🔹 [Startup Analytics Agent](https://github.com/NeilODL/Portfolio-Agent-Independent)  
 Multi-agent platform with semantic search and interactive UI for startup analysis.  
 *Python, React, vector databases, GitHub Actions*
 
