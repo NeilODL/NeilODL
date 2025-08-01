@@ -3,7 +3,7 @@
 **AI/ML Developer** with a background in mathematics.
 
 - 🎓 MSc Financial Mathematics | BSc Mathematics (University of Liverpool)  
-- 🤖 Prrvious role: Built OpenAI-powered financial agents at Mindsight Ventures  
+- 🤖 Previous role: Built OpenAI-powered financial agents at Mindsight Ventures  
 
 ---
 
